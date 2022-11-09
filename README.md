@@ -5,9 +5,9 @@ Here, the users can create and contribute to the campaigns without any fear of e
 
 
 ### TECHSTACK used : 
-####FrontEnd: 
+#### FrontEnd: 
 Next.js, SemanticUi, React.js
-####BackEnd:
+#### BackEnd:
 Solidity, Node.js, JavaScript
 
 
