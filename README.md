@@ -5,10 +5,17 @@ Here, the users can create and contribute to the campaigns without any fear of e
 
 
 ### TECHSTACK used : 
+
 #### FrontEnd: 
 Next.js, SemanticUi, React.js
+
 #### BackEnd:
 Solidity, Node.js, JavaScript
+
+### To locally run the application :
+
+
+
 
 
 
